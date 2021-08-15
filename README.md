@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **mcf-rocks/mcf-rocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Illustrious Majesty / Supreme Apostle
 - ⚡ Fun fact: ...
--->
+
+History is ... stories we agree to tell each other over and over, until we forget that it's a lie.
